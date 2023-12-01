@@ -1,3 +1,5 @@
+![MasterHead](chill_mario.gif)
+
 # Hi 👋, I'm Amrit Singh
 ## Full Stack Web Developer
 
