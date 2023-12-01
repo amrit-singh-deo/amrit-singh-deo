@@ -1,7 +1,7 @@
 ![MasterHead](chill_mario.gif)
 
-# Hi 👋, I'm Amrit Singh
-## Full Stack Web Developer
+<h1 align="center">Hi 👋, I'm Amrit Singh</h1>
+<h3 align="center">FullStack Web Developer</h3>
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
@@ -9,7 +9,7 @@
 
 - 📫 Contact Me **amritsinghdeo.20@gmail.com**
 
-# 🌐 Lets Connect:
+## 🌐 Lets Connect:
 <p align="left">
 <a href="https://linkedin.com/in/amrit-singh-deo" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="amrit-singh-deo" width="40" /></a>
 <a href="https://www.reddit.com/user/Amrit_52" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3670/3670226.png" alt="amrit-singh-deo" width="40" /></a>
