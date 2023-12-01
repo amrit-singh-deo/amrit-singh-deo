@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Amrit Singh</h1>
 <h3 align="center">FullStack Web Developer</h3>
 
+<img align="right" alt="Coding" height="250" width="350" src="chill_programmer.gif">
+
 - 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **Spring Boot**
